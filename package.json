@@ -1,0 +1,20 @@
+{
+  "name": "prj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvCombiner.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "ts-jest": "^27.0.7"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
